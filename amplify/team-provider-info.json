@@ -8,7 +8,8 @@
       "DeploymentBucketName": "amplify-8534-dev-102459-deployment",
       "UnauthRoleName": "amplify-8534-dev-102459-unauthRole",
       "StackName": "amplify-8534-dev-102459",
-      "StackId": "arn:aws:cloudformation:us-east-1:814763596509:stack/amplify-8534-dev-102459/623b2590-38cc-11ec-a0c5-12f87c0c501f"
+      "StackId": "arn:aws:cloudformation:us-east-1:814763596509:stack/amplify-8534-dev-102459/623b2590-38cc-11ec-a0c5-12f87c0c501f",
+      "AmplifyAppId": "d1trw91jstcrft"
     }
   }
 }
