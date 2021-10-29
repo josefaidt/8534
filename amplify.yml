@@ -6,15 +6,3 @@ backend:
       commands:
         - '# Execute Amplify CLI with the helper script'
         - amplifyPush --simple
-frontend:
-  phases:
-    build:
-      commands:
-        - 'echo "no build necessary"'
-  artifacts:
-    # IMPORTANT - Please verify your build output directory
-    baseDirectory: /
-    files:
-      - '**/*'
-  cache:
-    paths: []
